@@ -9,18 +9,24 @@
     <h3>QA Automation Engineer (Java), Белгород, Россия</h3>
 </div>
 
-<div id="socials" align="center">   
+<div id="socials" align="center">
   <a href="https://t.me/Viktor_lv">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+<div id="socials" align="center">
+  <a href>
+    +7 (906) 601 23 86
+  </a>
+</div>
+<div id="socials" align="center">
+  <a href>
+    lukashevviktor@gmail.com
+  </a>
+</div>
 
 ### Обо мне
-Мужчина, 37 лет, родился 17 сентября 1985
-
-тел: ```+7 (906) 601 23 86```
-
-email: ```lukashevviktor@gmail.com``` — предпочитаемый способ связи
+Мужчина, 37 лет, родился 17 сентября 1985г.
 
 ### Опыт работы — более 3 лет
 
