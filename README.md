@@ -3,20 +3,10 @@
 <!--
 **lukviktor/lukviktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <h1>Hi there, I'm  Viktor </h1>
-    <h3>QA Engineer from Belgorod Russia</h3>
+    <h1>Привет, я Лукашев Виктор Николвевич </h1>
+    <h3>QA Automation Engineer (Java), Белгород, Россия</h3>
 </div>
 
 <div id="socials" align="center">   
@@ -25,17 +15,16 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### About me
-- 🌱 I’m currently learning **Java**
-- 🌍 I speak Russian
+### Обо мне
+Мужчина, 37 лет, родился 17 сентября 1985
 
----
+тел: ```+7 (906) 601 23 86```
 
-### Languages and tools
+email: ```lukashevviktor@gmail.com``` — предпочитаемый способ связи
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
+### Опыт работы — более 3 лет
 
+Работал в компаниях [АНКОР ФинТек](https://ancor.ru/), [Upwork](www.upwork.com/).
 
----
-
+### Навыки
+*Java, Git, QA, Функциональное тестирование, API, UI, Atlassian Jira, Intellij IDEA, Apache Maven, Selenium, Selenide, REST API.*
