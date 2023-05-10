@@ -34,3 +34,9 @@
 
 ### Навыки
 *Java, Git, QA, Функциональное тестирование, API, UI, Atlassian Jira, Intellij IDEA, Apache Maven, Selenium, Selenide, REST API.*
+
+## Мои проекты
+
+[QA_java_test_unit](https://github.com/lukviktor/QA_java_test_unit)
+
+
