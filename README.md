@@ -33,12 +33,7 @@
 Работал в компаниях [АНКОР ФинТек](https://ancor.ru/), [Upwork](https://www.upwork.com/).
 
 ### Навыки
-*Java, Git, QA, Функциональное тестирование, API, UI, Atlassian Jira, Intellij IDEA, Apache Maven, Selenium, Selenide, REST API.*
-
-## Мои проекты
-
-[QA_java_test_unit](https://github.com/lukviktor/QA_java_test_unit) - Юнит-тест;
-
-[QA_java_tests_API](https://github.com/lukviktor/QA_java_tests_API) - API-тест;
-
-[QA_java_tests_UI](https://github.com/lukviktor/QA_java_tests_UI) - UI-тест.
+`QA`, `API`, `UI`, `SQL`, `Java`, `Maven`, `Cradle`
+`JUnit`, `TestNG`, `Selenium`, `Selenide`, `Playwright`
+`RestAssured`, `JSON`, `Allure`
+`Git`, `Atlassian Jira`, `Atlassian Confluence`, `Docker`
